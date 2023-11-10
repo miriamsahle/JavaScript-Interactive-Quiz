@@ -1,2 +1,2 @@
 # Project-Interactive-Quiz
-JavaScript
+HTML, Bootstrap & JavaScript
