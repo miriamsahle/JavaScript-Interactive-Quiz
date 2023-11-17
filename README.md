@@ -1,2 +1,2 @@
-# Project-Interactive-Quiz
+# Interactive-Quiz
 HTML, Bootstrap & JavaScript
